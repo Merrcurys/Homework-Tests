@@ -1,0 +1,6 @@
+C:\WORKS\MPT\Third_course\Testing\Project\PrTDD.Tests\PrTDD\bin\Debug\PrTDD.dll
+C:\WORKS\MPT\Third_course\Testing\Project\PrTDD.Tests\PrTDD\bin\Debug\PrTDD.pdb
+C:\WORKS\MPT\Third_course\Testing\Project\PrTDD.Tests\PrTDD\obj\Debug\PrTDD.csproj.AssemblyReference.cache
+C:\WORKS\MPT\Third_course\Testing\Project\PrTDD.Tests\PrTDD\obj\Debug\PrTDD.csproj.CoreCompileInputs.cache
+C:\WORKS\MPT\Third_course\Testing\Project\PrTDD.Tests\PrTDD\obj\Debug\PrTDD.dll
+C:\WORKS\MPT\Third_course\Testing\Project\PrTDD.Tests\PrTDD\obj\Debug\PrTDD.pdb

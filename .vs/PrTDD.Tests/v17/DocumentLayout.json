@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607979CA-AE19-42E6-8AC3-A4880439C008}|PrTDD.Tests\\PrTDD.Tests.csproj|c:\\works\\mpt\\third_course\\testing\\project\\prtdd.tests\\prtdd.tests\\tddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607979CA-AE19-42E6-8AC3-A4880439C008}|PrTDD.Tests\\PrTDD.Tests.csproj|solutionrelative:prtdd.tests\\tddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2F4BCF-6DC2-47E6-97A5-746277597442}|PrTDD\\PrTDD.csproj|c:\\works\\mpt\\third_course\\testing\\project\\prtdd.tests\\prtdd\\tdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2F4BCF-6DC2-47E6-97A5-746277597442}|PrTDD\\PrTDD.csproj|solutionrelative:prtdd\\tdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TDD.cs",
+              "DocumentMoniker": "C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\PrTDD\\TDD.cs",
+              "RelativeDocumentMoniker": "PrTDD\\TDD.cs",
+              "ToolTip": "C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\PrTDD\\TDD.cs",
+              "RelativeToolTip": "PrTDD\\TDD.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:03:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TDDTests.cs",
+              "DocumentMoniker": "C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\PrTDD.Tests\\TDDTests.cs",
+              "RelativeDocumentMoniker": "PrTDD.Tests\\TDDTests.cs",
+              "ToolTip": "C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\PrTDD.Tests\\TDDTests.cs",
+              "RelativeToolTip": "PrTDD.Tests\\TDDTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:01:20.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
