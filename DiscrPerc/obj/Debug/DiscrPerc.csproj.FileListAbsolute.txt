@@ -1,0 +1,6 @@
+C:\WORKS\MPT\Third_course\Testing\Project\DiscrPerc\DiscrPerc\bin\Debug\DiscrPerc.dll
+C:\WORKS\MPT\Third_course\Testing\Project\DiscrPerc\DiscrPerc\bin\Debug\DiscrPerc.pdb
+C:\WORKS\MPT\Third_course\Testing\Project\DiscrPerc\DiscrPerc\obj\Debug\DiscrPerc.csproj.AssemblyReference.cache
+C:\WORKS\MPT\Third_course\Testing\Project\DiscrPerc\DiscrPerc\obj\Debug\DiscrPerc.csproj.CoreCompileInputs.cache
+C:\WORKS\MPT\Third_course\Testing\Project\DiscrPerc\DiscrPerc\obj\Debug\DiscrPerc.dll
+C:\WORKS\MPT\Third_course\Testing\Project\DiscrPerc\DiscrPerc\obj\Debug\DiscrPerc.pdb
