@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{607979CA-AE19-42E6-8AC3-A4880439C008}|PrTDD.Tests\\PrTDD.Tests.csproj|solutionrelative:prtdd.tests\\tddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2F4BCF-6DC2-47E6-97A5-746277597442}|PrTDD\\PrTDD.csproj|c:\\works\\mpt\\third_course\\testing\\project\\prtdd.tests\\prtdd\\tdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA2F4BCF-6DC2-47E6-97A5-746277597442}|PrTDD\\PrTDD.csproj|C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\prtdd\\tdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2F4BCF-6DC2-47E6-97A5-746277597442}|PrTDD\\PrTDD.csproj|solutionrelative:prtdd\\tdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,10 +36,9 @@
               "RelativeDocumentMoniker": "PrTDD\\TDD.cs",
               "ToolTip": "C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\PrTDD\\TDD.cs",
               "RelativeToolTip": "PrTDD\\TDD.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T12:03:45.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T12:03:45.532Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "PrTDD.Tests\\TDDTests.cs",
               "ToolTip": "C:\\WORKS\\MPT\\Third_course\\Testing\\Project\\PrTDD.Tests\\PrTDD.Tests\\TDDTests.cs",
               "RelativeToolTip": "PrTDD.Tests\\TDDTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T12:01:20.447Z",
               "EditorCaption": ""
