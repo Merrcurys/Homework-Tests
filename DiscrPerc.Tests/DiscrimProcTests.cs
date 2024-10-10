@@ -19,22 +19,22 @@ namespace DiscrPerc.Tests
         [TestMethod]
         public void GetQuadEquat_DLessThan0_returnEmptyList()
         {
-            double[] expected = DiscrimProc.GetQuadEquat(factor[0], factor[4], factor[5]);
-            CollectionAssert.AreEqual(new double[] { double.NaN, double.NaN }, expected);
+            double[] actual = DiscrimProc.GetQuadEquat(factor[0], factor[4], factor[5]);
+            CollectionAssert.AreEqual(actual, new double[] { double.NaN, double.NaN });
         }
 
         [TestMethod]
         public void GetQuadEquat_DEquals0_return0()
         {
-            double[] expected = DiscrimProc.GetQuadEquat(factor[0], factor[3], factor[3]);
-            CollectionAssert.AreEquivalent(new double[] { 0, 0 }, expected);
+            double[] actual = DiscrimProc.GetQuadEquat(factor[0], factor[3], factor[3]);
+            CollectionAssert.AreEquivalent(actual, new double[] { 0, 0 });
         }
 
         [TestMethod]
         public void GetQuadEquat_DMoreThan0_return60and10()
         {
-            double[] expected = DiscrimProc.GetQuadEquat(factor[0], factor[1], factor[2]);
-            CollectionAssert.IsSubsetOf(expected, new double[] { 60, 10 });
+            double[] actual = DiscrimProc.GetQuadEquat(factor[0], factor[1], factor[2]);
+            CollectionAssert.IsSubsetOf(actual, new double[] { 60, 10 });
         }
 
         [TestMethod]
